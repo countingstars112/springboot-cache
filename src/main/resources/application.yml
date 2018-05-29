@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    username: root
+    password: 13679065225zjhy
+    url: jdbc:mysql://120.79.61.131:3306/springboot?useUnicode=true&amp&characterEncoding=utf-8&serverTimezone=Hongkong
+    driver-class-name: com.mysql.jdbc.Driver
+  redis:
+    host: 192.168.56.213
+
+
+
+
+
+
